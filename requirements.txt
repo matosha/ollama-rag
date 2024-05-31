@@ -1,0 +1,5 @@
+pypdf
+langchain
+chromadb 
+# ollama run codellama
+# ollama run mistral
